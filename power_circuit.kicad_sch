@@ -4,6 +4,11 @@
 	(generator_version "8.0")
 	(uuid "57637aa7-caf7-4de8-b339-45add76a67b4")
 	(paper "A4")
+	(title_block
+		(title "PLC IO Module")
+		(rev "1.0.0")
+		(company "Dawid Kania")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers hide)
