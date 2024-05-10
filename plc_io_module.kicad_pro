@@ -511,20 +511,7 @@
       "SWDIO": "rgb(255, 24, 192)",
       "SWO": "rgb(255, 24, 192)"
     },
-    "netclass_assignments": {
-      "+24V": "HighPower",
-      "DIQ0": "HighPower",
-      "DIQ1": "HighPower",
-      "DIQ2": "HighPower",
-      "DIQ3": "HighPower",
-      "DIQ4": "HighPower",
-      "DIQ5": "HighPower",
-      "DIQ6": "HighPower",
-      "DIQ7": "HighPower",
-      "Net-(C11-Pad1)": "HighPower",
-      "Net-(D1-K)": "HighPower",
-      "Net-(U2-DC)": "HighPower"
-    },
+    "netclass_assignments": null,
     "netclass_patterns": [
       {
         "netclass": "HighPower",
@@ -549,7 +536,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "fab_output/board",
+      "plot": "fab_output/gerber",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
