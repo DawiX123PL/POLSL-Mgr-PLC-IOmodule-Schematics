@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "8.0.0"
     },
-    "CreationDate": "2024-05-10T19:48:46+02:00"
+    "CreationDate": "2024-05-13T12:24:45+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -28,8 +28,8 @@
       "PadToTrack": 0.127,
       "TrackToTrack": 0.127,
       "MinLineWidth": 0.254,
-      "TrackToRegion": 0.127,
-      "RegionToRegion": 0.127
+      "TrackToRegion": 0.1778,
+      "RegionToRegion": 0.1778
     },
     {
       "Layers": "Inner",
@@ -99,16 +99,6 @@
     {
       "Path": "plc_io_module-Edge_Cuts.gm1",
       "FileFunction": "Profile",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "plc_io_module-F_Fab.gbr",
-      "FileFunction": "AssemblyDrawing,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "plc_io_module-B_Fab.gbr",
-      "FileFunction": "AssemblyDrawing,Bot",
       "FilePolarity": "Positive"
     }
   ],
