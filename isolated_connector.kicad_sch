@@ -4636,6 +4636,24 @@
 				(hide yes)
 			)
 		)
+		(property "Symbol Mouser" "-"
+			(at 95.25 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol TME" ""
+			(at 95.25 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "13"
 			(uuid "8cb056e8-2c2c-430d-83fd-e0a246887c08")
 		)
@@ -5276,6 +5294,24 @@
 				(hide yes)
 			)
 		)
+		(property "Symbol Mouser" "80-C1206C104K5R7210"
+			(at 170.18 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol TME" "VJ1206Y104KXBTW1BC"
+			(at 170.18 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9c9b9157-f298-4e22-af5e-65499fa3d954")
 		)
@@ -5544,6 +5580,24 @@
 				(hide yes)
 			)
 		)
+		(property "Symbol Mouser" "===="
+			(at 109.22 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol TME" "=="
+			(at 109.22 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "31863bc9-8e27-4ba9-84ad-9621c687c3f9")
 		)
@@ -5635,6 +5689,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 218.44 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol Mouser" "-"
+			(at 218.44 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol TME" ""
 			(at 218.44 59.69 0)
 			(effects
 				(font
@@ -5785,6 +5857,24 @@
 			)
 		)
 		(property "Description" "General-purpose, quad-channel, 3/1 digital isolator"
+			(at 142.24 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol Mouser" "595-ISO6741DWR"
+			(at 142.24 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol TME" "---"
 			(at 142.24 130.81 0)
 			(effects
 				(font
@@ -5991,6 +6081,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 116.84 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol Mouser" "80-C1206C104K5R7210"
+			(at 116.84 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol TME" "VJ1206Y104KXBTW1BC"
 			(at 116.84 107.95 0)
 			(effects
 				(font

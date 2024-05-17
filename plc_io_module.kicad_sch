@@ -4450,6 +4450,24 @@
 				(hide yes)
 			)
 		)
+		(property "Symbol Mouser" "===="
+			(at 306.07 8.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol TME" "=="
+			(at 306.07 8.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "plc_io_module"
 				(path "/7c9d0049-b8ca-4ba4-b225-d2b103422ad4"
@@ -4531,6 +4549,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 262.89 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol Mouser" "604-WP113YDT"
+			(at 262.89 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol TME" "L-1553YDT"
 			(at 262.89 39.37 0)
 			(effects
 				(font
@@ -4700,6 +4736,24 @@
 				(hide yes)
 			)
 		)
+		(property "Symbol Mouser" "696-SSL-LX2573SRD"
+			(at 262.89 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol TME" "L-113SURDTK"
+			(at 262.89 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a8df688e-d8ca-4235-ad30-c54577cb88bc")
 		)
@@ -4787,6 +4841,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 251.46 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol Mouser" "708-RMCF0805JT300R"
+			(at 251.46 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol TME" "ERJ6ENF3000V"
 			(at 251.46 53.34 0)
 			(effects
 				(font
@@ -4885,6 +4957,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 134.62 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol Mouser" "511-STM32F030C6T6"
+			(at 134.62 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol TME" "STM32F030C6T6"
 			(at 134.62 92.71 0)
 			(effects
 				(font
@@ -5128,6 +5218,24 @@
 				(hide yes)
 			)
 		)
+		(property "Symbol Mouser" "603-RC0805FR-1010KL"
+			(at 259.08 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol TME" "RC0805JR-0710K"
+			(at 259.08 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "eb3d5c01-02fe-483a-a40a-dce89c2fdff1")
 		)
@@ -5291,6 +5399,24 @@
 				(hide yes)
 			)
 		)
+		(property "Symbol Mouser" "80-C1206C104K5R7210"
+			(at 220.98 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol TME" "VJ1206Y104KXBTW1BC"
+			(at 220.98 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ec0c0579-ccbc-4d5a-87e5-221832d8f683")
 		)
@@ -5446,6 +5572,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 55.88 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol Mouser" "===="
+			(at 55.88 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol TME" "=="
 			(at 55.88 123.19 0)
 			(effects
 				(font
@@ -5620,6 +5764,24 @@
 				(hide yes)
 			)
 		)
+		(property "Symbol Mouser" "80-C1206C104K5R7210"
+			(at 195.58 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol TME" "VJ1206Y104KXBTW1BC"
+			(at 195.58 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d9539a95-cdef-41e3-9141-71007d67090a")
 		)
@@ -5775,6 +5937,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 259.08 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol Mouser" "71-CRCW080562K0JNEA"
+			(at 259.08 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol TME" "SMD0805-62K-1%"
 			(at 259.08 82.55 0)
 			(effects
 				(font
@@ -6012,6 +6192,24 @@
 				(hide yes)
 			)
 		)
+		(property "Symbol Mouser" "80-C1206C104K5R7210"
+			(at 43.18 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol TME" "VJ1206Y104KXBTW1BC"
+			(at 43.18 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0c881b08-3912-4354-b456-5bbce7cbbfeb")
 		)
@@ -6099,6 +6297,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 251.46 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol Mouser" "708-RMCF0805JT300R"
+			(at 251.46 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol TME" "ERJ6ENF3000V"
 			(at 251.46 25.4 0)
 			(effects
 				(font
@@ -6336,6 +6552,24 @@
 				(hide yes)
 			)
 		)
+		(property "Symbol Mouser" "===="
+			(at 55.88 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol TME" "=="
+			(at 55.88 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "38560111-11e8-4cd3-8941-52eeef671946")
 		)
@@ -6428,6 +6662,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 57.15 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol Mouser" "80-C1206C104K5R7210"
+			(at 57.15 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol TME" "VJ1206Y104KXBTW1BC"
 			(at 57.15 81.28 0)
 			(effects
 				(font
@@ -6598,6 +6850,24 @@
 				(hide yes)
 			)
 		)
+		(property "Symbol Mouser" "708-RMCF0805JT300R"
+			(at 251.46 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol TME" "ERJ6ENF3000V"
+			(at 251.46 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "84923922-2373-4a99-bad1-999da3d3d2be")
 		)
@@ -6687,6 +6957,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 90.17 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol Mouser" "===="
+			(at 90.17 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol TME" "=="
 			(at 90.17 41.91 0)
 			(effects
 				(font
@@ -6787,6 +7075,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 208.28 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol Mouser" "80-C1206C104K5R7210"
+			(at 208.28 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol TME" "VJ1206Y104KXBTW1BC"
 			(at 208.28 121.92 0)
 			(effects
 				(font
@@ -7022,6 +7328,24 @@
 				(hide yes)
 			)
 		)
+		(property "Symbol Mouser" "604-WP113GDT"
+			(at 262.89 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol TME" "L-103GDT"
+			(at 262.89 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3b19d561-495f-44e7-b466-121bc11eca26")
 		)
@@ -7150,6 +7474,24 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 306.07 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol Mouser" "===="
+			(at 306.07 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol TME" "=="
 			(at 306.07 19.05 0)
 			(effects
 				(font
@@ -7380,6 +7722,24 @@
 				(hide yes)
 			)
 		)
+		(property "Symbol Mouser" "73-XT49S800-20"
+			(at 50.8 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol TME" "8.00M-HC49-S"
+			(at 50.8 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "00e93e16-c796-400a-8833-afb4eb54bac1")
 		)
@@ -7442,6 +7802,24 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 306.07 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol Mouser" "===="
+			(at 306.07 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol TME" "=="
 			(at 306.07 3.81 0)
 			(effects
 				(font
@@ -7541,6 +7919,24 @@
 				(hide yes)
 			)
 		)
+		(property "Symbol Mouser" "603-RC0805FR-1010KL"
+			(at 114.3 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol TME" "RC0805JR-0710K"
+			(at 114.3 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1d4cb026-407b-43b6-b0f9-86a48a674f90")
 		)
@@ -7603,6 +7999,24 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 306.07 13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol Mouser" "===="
+			(at 306.07 13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol TME" "=="
 			(at 306.07 13.97 0)
 			(effects
 				(font
@@ -7827,6 +8241,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 182.88 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol Mouser" "80-C1206C104K5R7210"
+			(at 182.88 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Symbol TME" "VJ1206Y104KXBTW1BC"
 			(at 182.88 121.92 0)
 			(effects
 				(font
