@@ -3213,6 +3213,16 @@
 		)
 		(uuid "f5e46b95-c5bc-4350-af2a-b9a163e6a281")
 	)
+	(text "TU jest pomyłka\nMISO i MOSI powinny być zamienione\n"
+		(exclude_from_sim no)
+		(at 171.704 144.272 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "aef9e13a-340f-433f-af6f-5da8f9d9cb10")
+	)
 	(global_label "CS2_I"
 		(shape input)
 		(at 132.08 62.23 0)
